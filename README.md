@@ -3,9 +3,8 @@
 • End to End Project for DevOps Resume
 - Built Kubernetes Cluster on AWS from Scratch with Minukube
 - Setup and Managed Docker Containers for Django and React Applications into Kubernetes Pods.
-- Managed Deployment, Replication, Autohealing, auto scaling for Kubernetes Cluster.
-- Managed network the service with host IP allocation through proxy on aws ec2 and route53
-Achievement: <>
+- Managed Deployment, Replication, Autohealing, and auto scaling for Kubernetes Cluster.
+- Managed network the service with host IP allocation through a proxy on aws ec2 and route53
 
 ..........Commands to run this project...........
 #cd ymlfile
